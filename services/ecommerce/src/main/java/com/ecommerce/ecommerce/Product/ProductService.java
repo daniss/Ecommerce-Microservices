@@ -1,12 +1,8 @@
 package com.ecommerce.ecommerce.Product;
 
 import java.util.List;
-import com.ecommerce.ecommerce.Product.Product;
-
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-
-import com.ecommerce.ecommerce.Product.ProductRepository;
 
 @Service
 public class ProductService {

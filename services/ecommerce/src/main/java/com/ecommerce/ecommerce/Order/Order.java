@@ -1,9 +1,7 @@
 package com.ecommerce.ecommerce.Order;
 
 import java.util.List;
-import com.ecommerce.ecommerce.Order.OrderItem;
 import com.ecommerce.ecommerce.User.User;
-import com.ecommerce.ecommerce.Order.OrderItem;
 
 import java.util.ArrayList;
 import java.time.LocalDateTime;
